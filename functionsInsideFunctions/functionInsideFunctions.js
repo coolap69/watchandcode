@@ -73,7 +73,7 @@ undefined
 students.forEach(function (name) {
 console.log(name);
 })
-VM1004:2 Jonathan
-VM1004:2 Jenny
-VM1004:2 Elliot
+Jonathan
+Jenny
+Elliot
 undefined
